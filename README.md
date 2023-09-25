@@ -1,2 +1,3 @@
-# Ethnus_BootstrapJSTasks_21BCE2931
-Bootstrap And Java Script Tasks (MERN_Ethnus)
+# Karanki Chiranjeevi 21BCE2931
+# Active Deployment (VIT Mern Tasks)
+https://chiru-stack.github.io/Ethnus_BootstrapJSTasks_21BCE2931/
